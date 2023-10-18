@@ -76,26 +76,15 @@
       "modifiedAt": "2020-05-21T15:15:33.944Z"
     },
     {
-      "id": "LG2ZLsFzL",
-      "uuid": "f62f9315-fc3c-49cc-b5d7-29f0ea6b74cd",
+      "id": "iul2US02E",
+      "uuid": "99f16be9-c00d-4c8d-aad9-fbdf7a6a448a",
       "firstName": "Brandon",
       "lastName": "Olckers",
       "username": "Semco",
-      "password": "$2a$10$EP9rzeIHpFrsgaMs51FrHOIjpbBkUDJ43IJSG9B7PFAIuNiPbG.Iu",
+      "password": "$2a$10$uEPLmeP9oz.ivIfH9dfB4.OwxZ6seriiTVQaDNEHfMx0dOM2ETD/O",
       "balance": 0,
-      "createdAt": "2023-10-17T05:21:47.158Z",
-      "modifiedAt": "2023-10-17T05:21:47.158Z"
-    },
-    {
-      "id": "YdSUxRnPc",
-      "uuid": "f018325e-f0ab-4698-b059-f84e15b4f36f",
-      "firstName": "a",
-      "lastName": "a",
-      "username": "a",
-      "password": "$2a$10$/dOr00MwaF5J6dEZ96JWIOHVUrGlbersCiJkp2GFiVa/a0bILyBYu",
-      "balance": 0,
-      "createdAt": "2023-10-17T05:22:16.967Z",
-      "modifiedAt": "2023-10-17T05:22:16.967Z"
+      "createdAt": "2023-10-17T17:00:02.359Z",
+      "modifiedAt": "2023-10-17T17:00:02.359Z"
     }
   ],
   "contacts": [
