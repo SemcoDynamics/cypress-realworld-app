@@ -74,17 +74,6 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
-    },
-    {
-      "id": "iul2US02E",
-      "uuid": "99f16be9-c00d-4c8d-aad9-fbdf7a6a448a",
-      "firstName": "Brandon",
-      "lastName": "Olckers",
-      "username": "Semco",
-      "password": "$2a$10$uEPLmeP9oz.ivIfH9dfB4.OwxZ6seriiTVQaDNEHfMx0dOM2ETD/O",
-      "balance": 0,
-      "createdAt": "2023-10-17T17:00:02.359Z",
-      "modifiedAt": "2023-10-17T17:00:02.359Z"
     }
   ],
   "contacts": [
